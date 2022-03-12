@@ -79,6 +79,10 @@ main {
   gap: 50px;
 }
 
+.score-display p {
+  font-weight: 700;
+}
+
 .die-num {
   font-size: 2rem;
 }
